@@ -1,0 +1,20 @@
+<Style>
+
+
+h1{
+
+color: blueviolet;
+font-size: 30px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: calc(rgb(175, 6, 46));
+font-weight: bold;
+background-color: aqua;
+}
+p{
+
+font-size: 20px;
+color: rgb(247, 14, 14);
+font-family: 'Times New Roman', Times, serif;
+}
+
+</Style>
